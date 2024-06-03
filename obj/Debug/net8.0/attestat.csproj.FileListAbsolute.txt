@@ -1,0 +1,14 @@
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\bin\Debug\net8.0\attestat.exe
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\bin\Debug\net8.0\attestat.deps.json
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\bin\Debug\net8.0\attestat.runtimeconfig.json
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\bin\Debug\net8.0\attestat.dll
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\bin\Debug\net8.0\attestat.pdb
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\obj\Debug\net8.0\attestat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\obj\Debug\net8.0\attestat.AssemblyInfoInputs.cache
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\obj\Debug\net8.0\attestat.AssemblyInfo.cs
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\obj\Debug\net8.0\attestat.csproj.CoreCompileInputs.cache
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\obj\Debug\net8.0\attestat.dll
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\obj\Debug\net8.0\refint\attestat.dll
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\obj\Debug\net8.0\attestat.pdb
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\obj\Debug\net8.0\attestat.genruntimeconfig.cache
+E:\Saidanvarxon\geekbrains\Разработчик\С#\attestat\obj\Debug\net8.0\ref\attestat.dll
