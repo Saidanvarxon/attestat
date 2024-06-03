@@ -23,6 +23,13 @@ class Program
         Console.WriteLine("Введите элементы массива через запятую:");
         string input = Console.ReadLine();
         string[] inputArray = input.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
+
+        // Фильтрация массива
+        string[] result = FilterShortStrings(inputArray);
+
+        // Вывод результата
+        Console.WriteLine("Результат:");
+        Console.WriteLine("[{0}]", string.Join(", ", result));
      
       
     }
