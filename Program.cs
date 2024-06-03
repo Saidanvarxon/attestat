@@ -30,8 +30,19 @@ class Program
         // Вывод результата
         Console.WriteLine("Результат:");
         Console.WriteLine("[{0}]", string.Join(", ", result));
-     
-      
+           
     }
    
+   static string[] FilterShortStrings(string[] arr)
+    {
+        // Подсчет количества строк, удовлетворяющих условию
+        int count = 0;
+        foreach (string str in arr)
+        {
+            if (str.Length <= 3)
+            {
+                count++;
+            }
+        }
+    }
 }
