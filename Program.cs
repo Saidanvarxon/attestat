@@ -44,5 +44,24 @@ class Program
                 count++;
             }
         }
+
+        // Создание нового массива нужного размера
+        string[] result = new string[count];
+        int index = 0;
+
+        // Заполнение нового массива строками, удовлетворяющими условию
+        foreach (string str in arr)
+        {
+            if (str.Length <= 3)
+            {
+                result[index++] = str;
+            }
+        }
+
+        return result;
     }
+
+
+
+
 }
